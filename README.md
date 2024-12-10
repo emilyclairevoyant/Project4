@@ -4,7 +4,7 @@
 
 In today's entertainment landscape, movies profoundly influence our perspectives and emotions. However, the overwhelming variety of films across platforms, languages, and genres often makes choosing what to watch a challenge for users and a potential revenue risk for streaming platforms. This highlights the critical role of intelligent movie recommendation systems in enhancing user satisfaction and driving business success.
 
-Our project explores Machine Learning-based Recommender Systems to offer personalized movie suggestions tailored to individual preferences. By analyzing user profiles (e.g., age, gender), viewing history, movie attributes (e.g., genre, director, ratings), and platform interactions (e.g., clicks, watch duration), we create a dynamic, intuitive movie discovery experience.
+Our project explores Machine Learning-based Recommender Systems to offer personalized movie suggestions tailored to individual preferences. By analyzing user profiles, movie attributes (e.g., genre ratings) we create a dynamic, intuitive movie discovery experience.
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 **_Recommendation Systems_**
@@ -18,7 +18,7 @@ This approach personalizes recommendations using patterns derived from user-item
 
 _Content-Based Filtering_
 
-Content-based filtering focuses on movie attributes such as genre, actors, and release year. It 
+Content-based filtering focuses on movie attributes such as genres. It 
 recommends movies with similar attributes to those the user has already enjoyed.
 Relies on analyzing the specific features of the movies rather than user behavior.
 
