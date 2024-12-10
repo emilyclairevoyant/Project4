@@ -98,9 +98,9 @@ _DBSCAN Clustering and Neural Network_
 * Evaluation: Achieved reasonable MAE (~0.25) and R-squared (0.59) scores, highlighting areas for improvement.
   
 
-_Franchise SVD_
+_Franchise SVC_
 
-* Approach: SVD for franchise-specific rating predictions.
+* Approach: SVC for franchise-specific rating predictions.
 
 * Features:
 
