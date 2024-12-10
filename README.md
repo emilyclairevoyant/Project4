@@ -39,6 +39,10 @@ We utilized the MovieLens dataset to develop and evaluate our models:
 
 The system scales across both datasets, offering detailed insights and adaptability.
 
+To have the models function appropriately please make sure to access the data of your choice (https://grouplens.org/datasets/movielens/) and create a python file called 
+"mongo_credentials.py" with the contents stating "connection_string = "enter your string here".
+
+
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 **_Tools and Technologies_**
 
@@ -94,9 +98,9 @@ _DBSCAN Clustering and Neural Network_
 * Evaluation: Achieved reasonable MAE (~0.25) and R-squared (0.59) scores, highlighting areas for improvement.
   
 
-_Franchise SVD_
+_Franchise SVC_
 
-* Approach: SVD for franchise-specific rating predictions.
+* Approach: SVC for franchise-specific rating predictions.
 
 * Features:
 
