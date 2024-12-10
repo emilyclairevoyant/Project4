@@ -16,13 +16,17 @@ Collaborative filtering uses user behavior patterns and other users' feedback to
 Recommendations are based on ratings and feedback from users with similar behavior.
 This approach personalizes recommendations using patterns derived from user-item interactions.
 
+![https://miro.medium.com/v2/resize:fit:1096/format:webp/1*pv6CDVqPgITYi_Nr0RygUw.png](https://miro.medium.com/v2/resize:fit:1096/format:webp/1*pv6CDVqPgITYi_Nr0RygUw.png)
+
 _Content-Based Filtering_
 
 Content-based filtering focuses on movie attributes such as genres. It 
 recommends movies with similar attributes to those the user has already enjoyed.
 Relies on analyzing the specific features of the movies rather than user behavior.
 
-![https://i.onthe.io/smngoz60t8j8kn058.r1400.5e880b62.jpg](https://i.onthe.io/smngoz60t8j8kn058.r1400.5e880b62.jpg)
+![https://miro.medium.com/v2/resize:fit:1400/format:webp/1*dsuGJVJSqhhhNySFnt7EVw.png](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*dsuGJVJSqhhhNySFnt7EVw.png)
+
+
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 **_Data Sets_**
