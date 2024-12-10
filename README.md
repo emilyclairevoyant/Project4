@@ -31,7 +31,7 @@ We utilized the MovieLens dataset to develop and evaluate our models:
 
 * Small Dataset: 610 users, 9,724 movies.
 
-* Large Dataset: 22,208 users, 44,586 movies.
+* Large Dataset: 200,948 users, 87,585 movies.
 
 The system scales across both datasets, offering detailed insights and adaptability.
 
