@@ -119,7 +119,7 @@ _Strengths_
 
 * DBSCAN: Robust clustering for irregular data and outlier detection.
 
-* Franchise SVD: Predicts future franchise film ratings, useful for production insights.
+* Franchise SVC: Predicts future franchise film ratings, useful for production insights.
 
 _Challenges_
 
@@ -134,7 +134,7 @@ _Challenges_
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 **_Conclusion_**
 
-This project combines KNN, SVD, DBSCAN, and neural networks to deliver a multi-faceted recommendation system. By addressing the cold-start problem with genre-based cosine similarity and leveraging collaborative and content-based filtering, the system provides robust personalized recommendations. Future work will focus on integrating strengths across models to improve scalability, precision, and user-centric design.
+This project combines KNN, SVD, DBSCAN, SVC and neural networks to deliver a multi-faceted recommendation system. By addressing the cold-start problem with genre-based cosine similarity and leveraging collaborative and content-based filtering, the system provides robust personalized recommendations. Future work will focus on integrating strengths across models to improve scalability, precision, and user-centric design.
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 **_Credits_**
