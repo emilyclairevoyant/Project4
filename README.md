@@ -129,7 +129,7 @@ _Challenges_
 
 * DBSCAN: Sensitive to parameter choices; performance highly dependent on tuning.
 
-* Franchise SVD: Small datasets reduce accuracy and relevance to box office success.
+* Franchise SVC: Small datasets reduce accuracy and relevance to box office success.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 **_Conclusion_**
